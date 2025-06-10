@@ -1,0 +1,27 @@
+# Arquivos de objeto
+*.o
+*.obj
+*.lib
+*.dll
+
+# Arquivos binários (gerados por compiladores)
+/bin/
+/debug/
+/build/
+/obj/
+/dist/
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.tmp
+*.log
+
+# Arquivos de log
+log/
+
+# Arquivos de configuração do IDE
+.config/
+
+*.exe
+.vscode
